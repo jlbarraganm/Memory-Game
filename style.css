@@ -9,7 +9,6 @@ body {
     width: 100vw;
     height: 100vh;
     box-sizing: border-box;
-    background-color: rgb(126, 236, 255);
     display: flex;
     background-image: url("https://www.modularclayproducts.co.uk/wp-content/uploads/2020/07/red-brick-wall.jpg");
     background-size: cover;
