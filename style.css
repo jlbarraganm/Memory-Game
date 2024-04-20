@@ -9,7 +9,7 @@ body {
     box-sizing: border-box;
     background-color: rgb(126, 236, 255);
     display: flex;
-    background-image: url(https://www.modularclayproducts.co.uk/wp-content/uploads/2020/07/red-brick-wall.jpg);
+    background-image: url("https://www.modularclayproducts.co.uk/wp-content/uploads/2020/07/red-brick-wall.jpg");
     background-size: cover;
 }
 .board{
@@ -154,7 +154,7 @@ cursor: pointer;
 #refresh:hover, 
 #level1:hover{
     color: aliceblue;
-    background-color: rgba(50, 119, 248, 0.651);
+    background-color: rgba(43, 43, 43, 0.651);
 }
 
 .modal2 {
