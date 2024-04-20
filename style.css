@@ -161,7 +161,21 @@ font-family: 'Roboto', 'Courier New', 'sans-serif';
     background-color: rgba(43, 43, 43, 0.651);
 }
 
-#others{width: 120px;height: 50px;border: 1px solid rgb(213 0 255);border-radius: 10px;margin: 0px 10px;display: flex;justify-content: center;align-items: center;color: rgb(255 0 185);font-size: 1.4rem;font-weight: 600;cursor: pointer;background: rgb(45 221 200 / 65%);}
+#others{
+    width: 120px;
+    height: 50px;
+    border: 1px solid rgb(213 0 255);
+    border-radius: 10px;
+    margin: 0px 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: rgb(0, 0, 0);
+    font-size: 1.4rem;
+    font-weight: 600;
+    cursor: pointer;
+    background: rgb(255, 255, 255);}
+    
 #refresh:hover, 
 #others:hover{
     color: rgb(8, 8, 8);
