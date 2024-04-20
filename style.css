@@ -132,7 +132,7 @@ body {
     border-radius: 10px;
     position: fixed;
     bottom: 30px;
-    width: 250px;
+    width: 400px;
     height: 70px;
     font-size: 1.6rem;
     left: calc(50% - 125px);
@@ -164,8 +164,8 @@ font-family: 'Roboto', 'Courier New', 'sans-serif';
 #others{width: 120px;height: 50px;border: 1px solid rgb(213 0 255);border-radius: 10px;margin: 0px 10px;display: flex;justify-content: center;align-items: center;color: rgb(255 0 185);font-size: 1.4rem;font-weight: 600;cursor: pointer;background: rgb(45 221 200 / 65%);}
 #refresh:hover, 
 #others:hover{
-    color: aliceblue;
-    background-color: rgba(50, 119, 248, 0.651);
+    color: rgb(8, 8, 8);
+    background-color: rgb(255, 255, 255);
 }
 
 .modal2 {
