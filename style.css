@@ -166,7 +166,7 @@ font-family: 'Roboto', 'Courier New', 'sans-serif';
 #others{
     width: 120px;
     height: 50px;
-    border: 1px solid rgb(213 0 255);
+    border: 1px solid rgb(0, 0, 0);
     border-radius: 10px;
     margin: 0px 10px;
     display: flex;
