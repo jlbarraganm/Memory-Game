@@ -131,11 +131,11 @@ body {
     align-items: center;
     border-radius: 10px;
     position: fixed;
-    bottom: 30px;
+    bottom: 57px;
     width: 400px;
     height: 70px;
     font-size: 1.6rem;
-    left: calc(50% - 125px);
+    left: calc(50% - 190px);
     box-shadow: -3px 5px 5px 3px rgba(0, 0, 0, 0.363);
 }
 #refresh, 
@@ -174,8 +174,10 @@ font-family: 'Roboto', 'Courier New', 'sans-serif';
     font-size: 1.4rem;
     font-weight: 600;
     cursor: pointer;
-    background: rgb(255, 255, 255);}
-    
+    background: rgb(255, 255, 255);
+    text-decoration: none;
+}
+
 #refresh:hover, 
 #others:hover{
     color: rgb(8, 8, 8);
