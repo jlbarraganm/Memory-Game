@@ -7,13 +7,15 @@ body {
     width: 100vw;
     height: 100vh;
     box-sizing: border-box;
-    background-color: rgb(50, 119, 248);
+    background-color: rgb(126, 236, 255);
     display: flex;
+    background-image: url(https://www.modularclayproducts.co.uk/wp-content/uploads/2020/07/red-brick-wall.jpg);
+    background-size: cover;
 }
 .board{
     height: 480px;
     width: 460px;
-    background-color: aliceblue;
+    background-color: rgb(255, 255, 255);
     margin: auto;
     display: flex;
     justify-content: center;
@@ -76,7 +78,7 @@ body {
 .card {
     height: 100px;
     width: 91px;
-    background-color: rgb(50, 119, 248, 0.651);
+    background-color: rgb(255, 255, 255);
     border-radius: 10px;
     margin: 0px 10px;
     position: relative;
@@ -100,8 +102,8 @@ body {
 }
 
 .card .front {
-    color: aliceblue;
-    background-color:rgba(50, 119, 248, 0.651);
+    color: rgb(255, 255, 255);
+    background-color:rgba(0, 0, 0, 0.836);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -121,7 +123,7 @@ body {
 }
 
 .btn {
-    background-color: antiquewhite;
+    background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
     align-items: center;
@@ -138,7 +140,7 @@ body {
 #level1{
 width: 120px;
 height: 50px;
-border:1px solid rgb(50, 119, 248);
+border:1px solid rgba(0, 0, 0, 0.918);
 border-radius: 10px;
 margin: 0px 10px;
 display: flex;
