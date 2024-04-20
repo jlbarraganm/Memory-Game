@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@400;700&display=swap');
+
 * {
     margin: 0;
     padding: 0;
@@ -13,9 +15,9 @@ body {
     background-size: cover;
 }
 .board{
-    height: 680px;
-    width: 660px;
-    background-color: rgba(255, 255, 255, 0.253);
+    height: 580px;
+    width: 860px;
+    background-color: rgb(255, 255, 255);
     margin: auto;
     display: flex;
     justify-content: center;
@@ -84,7 +86,7 @@ body {
     position: relative;
     transform-style: preserve-3d;
     transition: all 0.8s ease;
-    box-shadow: -3px 5px 5px 3px rgba(0, 0, 0, 0.377);
+    box-shadow: -3px 5px 5px 3px rgba(0, 0, 0, 0.363);
     cursor: pointer;
 }
 
