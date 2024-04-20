@@ -135,7 +135,7 @@ body {
     width: 400px;
     height: 70px;
     font-size: 1.6rem;
-    left: calc(50% - 190px);
+    left: calc(50% - 193px);
     box-shadow: -3px 5px 5px 3px rgba(0, 0, 0, 0.363);
 }
 #refresh, 
