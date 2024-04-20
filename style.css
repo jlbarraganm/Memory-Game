@@ -84,7 +84,7 @@ body {
     position: relative;
     transform-style: preserve-3d;
     transition: all 0.8s ease;
-    box-shadow: -3px 5px 5px 3px rgba(0, 0, 0, 0.363);
+    box-shadow: -3px 5px 5px 3px rgba(0, 0, 0, 0.377);
     cursor: pointer;
 }
 
@@ -150,7 +150,9 @@ color: rgba(19, 19, 19, 0.877);
 font-size: 1.4rem;
 font-weight: 600;
 cursor: pointer;
+font-family: Roboto, sans-serif;
 }
+
 #refresh:hover, 
 #level1:hover{
     color: rgb(255, 255, 255);
